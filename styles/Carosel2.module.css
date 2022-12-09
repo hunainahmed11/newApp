@@ -1,0 +1,98 @@
+.one{
+    display: flex;
+    position: relative;
+
+    
+}
+
+.one h3{
+    font-size: 42vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #121b2e;
+    position: relative;
+    bottom: 20px;
+
+}
+.leon{
+position:absolute;
+top: 60px;
+left: 140px;
+
+}
+.josiah{
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+    bottom: 100px;
+    border-bottom: 2px solid #121b2e;
+    width: 42%;
+    left: 155px;
+}
+.josiah h6{
+    position: relative;
+    font-size: 18px;
+    color: white;
+    
+    
+}
+.josiah p{
+width: 110%;
+font-size: 16px;
+position: absolute;
+left: 10px;
+top: 30px;
+color: #53648d;
+border:none;
+
+
+}
+.josiah p span{
+    color: white;
+    font-size: 16px;
+    border-bottom: 1px solid white;
+    font-style: italic;
+}
+.tik{
+    position: relative;
+    /* top: 2px; */
+    right: 10px;
+    bottom: 5px;
+}
+.ontopIcon{
+    position: relative;
+    /* top:5px; */
+    right: 15px;
+    bottom: 5px;
+}
+/* @media only screen and (max-width:1600px) { */
+    /* .one h3{
+        font-size: 36vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: #121b2e;
+    
+    }
+    .leon{
+        position:absolute;
+        top: 35px;
+        left: 125px;
+        width: 52%;
+        height: 55%;
+        
+        }
+        .josiah{
+            display: flex;
+            position: relative;
+            justify-content: space-evenly;
+            bottom: 120px;
+            border-bottom: 2px solid #121b2e;
+            width: 42%;
+            left: 120px;
+        } */
+        /* .lastslider{
+            
+        } 
+    } */
+
+

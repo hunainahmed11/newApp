@@ -1,0 +1,62 @@
+.footer{
+    
+    background-color: #070c16;
+    text-align: center;
+    
+
+    
+    
+    /* padding:20px ; */
+} 
+.footer p{
+    /* text-align: center; */
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+    color: #364562;
+
+    
+}
+.footerlogo{
+    margin-top: 50px;
+    margin-left: 20px;
+
+
+   
+}
+.ftrcontent{
+border-top: 2px solid palevioletred;
+width: 10%;
+margin: 0 auto;
+
+}
+.follow{
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 50px;
+
+    
+}
+.follow h6{
+    margin-top: 10px;
+    margin-right: 8px;
+    color: #364562;
+}
+.insta{
+    padding: 4px 4px 4px 4px;
+    background-color: #364562;
+    margin: 4px 4px 4px 4px;
+    border-radius: 25px;
+}
+.insta:hover{
+    background-color: #bc2049;
+}
+.copyright p{
+    text-align: center;
+    padding: 20px 0px;
+    color: #fff;
+    background-image: linear-gradient( 1deg, rgb(199,29,67) 0%, rgb(35,78,159) 100%);
+
+}
